@@ -1,4 +1,5 @@
-# budy-backend
+# Budy - Your Buddy App for your body
+## budy-backend
 
 Laravelで構築したダイエットアプリ「Budy」のバックエンドAPIです。
 
